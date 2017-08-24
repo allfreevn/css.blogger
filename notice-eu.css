@@ -1,0 +1,5 @@
+.cookie-choices-info {position: fixed; top: auto !important; bottom: 0px !important;background-color: rgb(234, 247, 247) !important;border-top: none !important;}
+.cookie-choices-info .cookie-choices-text{color: rgb(92, 114, 145)!important;font-size: 16px;margin: 10px 20px;}
+.cookie-choices-info .cookie-choices-button {color: #0379c4 !important;background-color: transparent !important}
+.cookie-choices-info #cookieChoiceDismiss {color:#fff !important;padding: 8px 16px !important;background: #0379c4 !important;border-radius:4px !important}
+.cookie-choices-info #cookieChoiceDismiss:hover{background:#000 !important}
